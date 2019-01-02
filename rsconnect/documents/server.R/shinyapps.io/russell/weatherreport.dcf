@@ -1,0 +1,12 @@
+name: weatherreport
+title: weatherreport
+username:
+account: russell
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 625280
+bundleId: 1791909
+url: https://russell.shinyapps.io/weatherreport/
+when: 1546365971.49005
+asMultiple: FALSE
+asStatic: FALSE
